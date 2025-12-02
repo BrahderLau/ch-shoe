@@ -1,6 +1,7 @@
 import Header from "@/components/Header";
 import Hero from "@/components/Hero";
 import Features from "@/components/Features";
+import ModelHero from "@/components/ModelHero";
 import PromoVideo from "@/components/PromoVideo";
 import ProductShowcase from "@/components/ProductShowcase";
 
@@ -10,6 +11,7 @@ export default function Home() {
       <Header />
       <Hero />
       <Features />
+      <ModelHero />
       <PromoVideo />
       <ProductShowcase />
 
